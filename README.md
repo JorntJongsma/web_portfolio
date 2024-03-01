@@ -1,3 +1,3 @@
-# WEBSITE IN proggress 
+# website in progress 
 
-contains only python so far
+Contains only python so far.
